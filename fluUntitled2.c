@@ -12,7 +12,7 @@
 #define GRAVITY 0.5
 #define JUMP_STRENGTH -10
 
-// Yapı tanımlamaları
+
 typedef struct {
     float x, y;
     float velocity;
